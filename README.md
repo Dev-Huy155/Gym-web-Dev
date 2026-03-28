@@ -2,7 +2,7 @@
 
   # Gym Website Design
 
-  This is a code bundle for Gym Website Design. The original project is available at https://www.figma.com/design/STXJwlTvzyVxIk1gGGRcis/Gym-Website-Design.
+  This is a code bundle for Gym Website Design. The original project is available at https://design/STXJwlTvzyVxIk1gGGRcis/Gym-Website-Design.
 
   ## Running the code
 
